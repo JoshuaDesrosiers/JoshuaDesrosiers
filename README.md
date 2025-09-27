@@ -1,24 +1,21 @@
-# Hi, I'm Joshua Desrosiers👋
+Hi, I'm Joshua Desrosiers
 
-## 👨‍🏫 About Me
-- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
-- Born in NY + Raised in Brooklyn
-- Outside of work I like to Draw, Code, Write, & Do sports
-- Let's connect via email: codexandars@gmail.com
+I'm currently a Software Engineering Fellow at [The Marcy Lab School](https://www.marcylabschool.org/), based in Brooklyn, NY. I enjoy building creative and useful things with code, and have a growing interest in both frontend and backend development. Outside of tech, I spend time drawing, writing, and playing sports.
 
-## Tech Stack:
-(idk what to put here lol)
+Feel free to reach out: codexandars@gmail.com
 
-### Languages
-- JavaScript
-- Python
-- Unity 2D (c#) 
+---
 
-### Frameworks & Libraries
-- Node.js
-- React
-- **TailwindCSS** 
+**Tech Stack**
 
-### Tools
-- Git
-- GitHub
+**Languages:**  
+JavaScript, Python, C# (Unity 2D)
+
+**Frameworks & Libraries:**  
+React, Node.js, Tailwind CSS
+
+**Tools & Platforms:**  
+Git, GitHub, VS Code, Unity, Android Studio, Shopify
+
+**Design:**  
+Photoshop, Illustrator, Canva
