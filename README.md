@@ -1,6 +1,6 @@
 Hi, I'm Joshua Desrosiers
 
-I'm currently a Software Engineering Fellow at [The Marcy Lab School](https://www.marcylabschool.org/), based in Brooklyn, NY. I enjoy building creative and useful things with code, and have a growing interest in both frontend and backend development. Outside of tech, I spend time drawing, writing, and playing sports.
+I'm currently a Software Engineer and Alumn of the [The Marcy Lab School](https://www.marcylabschool.org/), based in Brooklyn, NY. I enjoy building creative and useful things with code, and have a growing interest in both frontend and backend development. Outside of tech, I spend time drawing, writing, and playing sports.
 
 Feel free to reach out: codexandars@gmail.com
 
