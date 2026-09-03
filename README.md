@@ -20,4 +20,3 @@ Git, GitHub, VS Code, Unity, Android Studio, Shopify
 **Design:**  
 Photoshop, Illustrator, Canva
 
-[Website ssr: WIP](https://portfolio.codexars.com/)
